@@ -1,14 +1,18 @@
 {
-  "name": "project-test-cypress",
-  "version": "1.0.0",
-  "description": "Project for training in Cypress",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "carlos conde",
-  "license": "MIT",
-  "devDependencies": {
-    "cypress": "^9.0.0"
-  }
+    "name": "project-test-cypress",
+    "version": "1.0.0",
+    "description": "Project for training in Cypress",
+    "main": "index.js",
+    "scripts": {
+        "test": "npx cypress open"
+    },
+    "author": "carlos conde",
+    "license": "MIT",
+    "devDependencies": {
+        "cypress": "^9.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/carlos-conde/project-test-cypress"
+    }
 }

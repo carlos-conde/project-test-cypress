@@ -1,0 +1,6 @@
+{
+    "title": ".navbar-brand",
+    "titleResult": "cypress.io",
+    "listboxCommands": ".dropdown-toggle",
+    "listboxCommandsResult": ".dropdown-menu"
+}
